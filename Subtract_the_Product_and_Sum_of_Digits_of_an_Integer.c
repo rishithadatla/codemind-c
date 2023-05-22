@@ -8,7 +8,6 @@ int main(){
         s=s+i;
         p=p*i;
         a=a/10;
-        
         }
         e=p-s;
     printf("%d",e);
